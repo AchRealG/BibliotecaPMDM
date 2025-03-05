@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">BibliotecaPMDM</string>
+        <string name="email_hint">Correo electrónico</string>
+        <string name="password_hint">Contraseña</string>
+        <string name="login">Iniciar Sesión</string>
+        <string name="register">Registrarse</string>
+        <string name="register_name_hint">Nombre</string>
+        <string name="register_email_hint">Correo de registro</string>
+        <string name="register_password_hint">Contraseña</string>
+        <string name="book_list">Lista de Libros</string>
+        <string name="add_book">Añadir Libro</string>
+        <string name="title_hint">Título</string>
+        <string name="author_hint">Autor</string>
+        <string name="description_hint">Descripción</string>
+        <string name="image_url_hint">URL de la imagen</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="no_tienes_cuenta_reg_strate">¿No tienes cuenta? Regístrate</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="correo_electr_nico2">Correo electrónico</string>
+    <string name="ccobn">Contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="ya_tienes_cuenta_inicia_sesi_n2">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="SharedName">sharedname</string>
+    <string name="SharedEmail">sharedemail</string>
+    <string name="SharedPassword">sharedpassword</string>
+    <string name="SharedRemember">sharedremember</string>
+    <string name="Recordar" />
+    <string name="todo">TODO</string>
+    <string name="imagen_de_libro">Imagen de libro</string>
+    <string name="book_title">Book Title</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="bot_n_de_favorito">Botón de favorito</string>
+    <string name="update_book">update</string>
+
+
+</resources>
